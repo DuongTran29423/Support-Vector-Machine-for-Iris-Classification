@@ -17,12 +17,12 @@ Pandas
 NumPy  
 Matplotlib  
 
-### **4. Project Structure**
+### **Project Structure**
 Exercise.ipynb: Jupyter notebook with the implementation of Logistic Regression and SVM models.
 iris.xls: The Iris dataset used for classification tasks.
 Machine learning with Logistic Regression - Short Questions.docx: A set of conceptual questions related to Logistic Regression and SVM.
 README.md: This file.
 
-### **5. License**
+### **License**
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
