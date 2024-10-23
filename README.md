@@ -8,7 +8,7 @@ To get started, clone the repository and install the required dependencies:
 git clone https://github.com/yourusername/machine-learning-project.git
 cd machine-learning-project
 pip install -r requirements.txt
-
+```
 
 Required Libraries:
 -Python 3.x
