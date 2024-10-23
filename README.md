@@ -9,12 +9,13 @@ git clone https://github.com/yourusername/machine-learning-project.git
 cd machine-learning-project
 pip install -r requirements.txt```
 
+
 Required Libraries:
-Python 3.x
-Scikit-Learn
-Pandas
-NumPy
-Matplotlib
+-Python 3.x
+-Scikit-Learn
+-Pandas
+-NumPy
+-Matplotlib
 
 ### **4. Project Structure**
 Exercise.ipynb: Jupyter notebook with the implementation of Logistic Regression and SVM models.
